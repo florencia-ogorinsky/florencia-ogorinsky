@@ -1,16 +1,28 @@
-## Hi there 👋
+---
 
-<!--
-**florencia-ogorinsky/florencia-ogorinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 I'm Florencia Ogorinsky
 
-Here are some ideas to get you started:
+🚀 **Data Analysis | Machine Learning | Finance**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![da](https://github.com/user-attachments/assets/369d7c4a-b47a-47a3-bb11-317b28596427)
+
+## 👋 About Me
+🎓 **Accountant** graduate in Argentina, with experience in the financial sector in both Argentina and Israel.  
+📊 Currently specializing in **Data Analysis**, focused on turning data into actionable insights and data-driven decisions.  
+🌸 Passionate about leveraging data to solve complex problems and improve business outcomes.
+
+## 🛠️ Tech Stack
+- **Languages**: Python, SQL  
+- **Machine Learning**: scikit-learn, TensorFlow, PyTorch  
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Tools**: Jupyter, VS Code, Git, Notion
+
+## 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/florencia-ogorinsky/)
+- Email: [florencia.ogorinsky@gmail.com](mailto:florencia.ogorinsky@gmail.com)
+
+---
+
+Thanks for visiting my profile! 🚀
+
+---
